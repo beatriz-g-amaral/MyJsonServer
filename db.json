@@ -1,13 +1,13 @@
 {
-  "resultLogin": [
-    {
-      “codigoEmpresa”: “2760150”,
-      “codigoUsuario”: “33”,
-      “sigla”: “FIN”,
-      “nivel”: “99”,
-      “senha”: “GDSDEDI”,
-      “nome”: “FIN - Financeiro”,
-      “token”: “token”
-    }
-  ]
+   "resultLogin":[
+      {
+         "codigoEmpresa":“2760150”,
+         "codigoUsuario":“33”,
+         "sigla":"FIN",
+         "nivel":“99”,
+         "senha":"GDSDEDI",
+         "nome":"FIN - Financeiro",
+         "token":"token"
+      }
+   ]
 }
