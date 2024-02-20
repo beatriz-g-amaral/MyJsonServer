@@ -1,14 +1,14 @@
 {
-   "resultLogin":[
-      {
-         "codigoEmpresa":2760150,
-         "codigoUsuario":33,
-         "sigla":"FIN",
-         "nivel":99,
-         "senha":"GDSDEDI",
-         "nome":"FIN - Financeiro",
-         "token":"token",
-         "tokenConfluence" : "YmVhdHJpemFtYXJhbDgxQGdtYWlsLmNvbTpBVEFUVDN4RmZHRjBGYkVaVzM4R29nenJWOEM5NnkwT1NWelQtRlhwTkM3TTBTcFJjakNfX0xDNmhGb1NLWWtldHdRT0Y1TzZJcnZJZU45Q1VwdEVlZERSMU54WGdnRWFQSnZ3RWx0T2J1eHlYWkROU2ZPUnpUNEhPOVlFQnJncTZLcVJ5SEZhVG5vdXpKNE1JSThyX3BaTmxJYUZXREFKTnVLNFFNTG5tc1RINDdIZWZGS2NIa289RTUyNjc2NUM="
-      }
-   ]
+    "params": {
+        "Ficha": "5087",
+        "Cadastrado": "12/01/2024",
+        "Dono": "FIN - Financeiro",
+        "Assunto": "G3STOR NÃO ABRE",
+        "Cliente": "TEXTURA",
+        "Área": "SUPORTE",
+        "Contato": "ADÃO",
+        "Categoria": "SUPORTE",
+        "Funcionário": "SUPORTE",
+        "Situação": "PENDENTE"
+    }
 }
