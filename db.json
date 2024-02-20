@@ -1,14 +1,14 @@
 {
-    "params": {
-        "Ficha": "5087",
-        "Cadastrado": "12/01/2024",
-        "Dono": "FIN - Financeiro",
-        "Assunto": "G3STOR NÃO ABRE",
-        "Cliente": "TEXTURA",
-        "Área": "SUPORTE",
-        "Contato": "ADÃO",
-        "Categoria": "SUPORTE",
-        "Funcionário": "SUPORTE",
-        "Situação": "PENDENTE"
+  "obs": [
+    {
+      "Data": "20/02/2024",
+      "Funcionário": "Renault Sandero",
+      "Observação": "Cliente relatou problema X"
+    },
+    {
+      "Data": "19/02/2024",
+      "Funcionário": "Regina George",
+      "Observação": "Cliente confirmou recebimento da solução"
     }
+  ]
 }
