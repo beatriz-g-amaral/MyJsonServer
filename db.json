@@ -1,14 +1,37 @@
 {
-    "params": {
-        "Ficha": "5087",
-        "Cadastrado": "12/01/2024",
-        "Dono": "FIN - Financeiro",
-        "Assunto": "G3STOR NÃO ABRE",
-        "Cliente": "TEXTURA",
-        "Área": "SUPORTE",
-        "Contato": "ADÃO",
-        "Categoria": "SUPORTE",
-        "Funcionário": "SUPORTE",
-        "Situação": "PENDENTE"
-    }
+"listaMVSUP": [
+{
+"SUP_COD": "69",
+"SUP_ASS": "MERCADÃO DE TECIDOS - BANDEIRAS",
+"SUP_CLI": "1001",
+"CLI_NOM": "CLIENTE NAO IDENTIFICADO",
+"SUP_CON": "SILVIA",
+"SUP_RES": "128001",
+"FUN_RED": "FINANCEIRO TEXTURA",
+"FUN_APE": "FIN",
+"SUP_PREVISAO": "20/02/2024",
+"SUP_MOD": "9",
+"ARE_NOM": "FINANCEIRO",
+"SUP_CAT": "5",
+"CAT_NOM": "FORNECEDOR",
+"SUP_SIT": "6",
+"SIT_NOM": "PENDENTE",
+"SUP_GRT": "5",
+"SUP_GRCOD": "69",
+"SUP_FUNCAD": "28",
+"SUP_FUNATU": "",
+"SUP_CON_1": "",
+"SUP_DAT": "20/02/2024",
+"SUP_HOR": "30/12/1899 14:19:15",
+"SUP_PRO": "",
+"SUP_SOL": "",
+"SUP_LIG": "C",
+"SUP_CCO": "N",
+"SUP_CONP": "",
+"SUP_DTC": "",
+"DAT_CAD": "20/02/2024",
+"SUP_TEMPO": "0",
+"SUP_STA": "PENDENTE"
+}
+]
 }
